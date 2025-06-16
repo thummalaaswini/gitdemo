@@ -14,5 +14,9 @@ public class Mobileautomation {
 	{
 		System.out.println("selenium");
 	}
+	public void mobileautomationqwdevelop()
+	{
+		System.out.println("selenium");
+	}
 
 }
