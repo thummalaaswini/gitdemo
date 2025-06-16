@@ -9,5 +9,10 @@ public class Restapimobile {
 	{
 		System.out.println("selenium");
 	}
+	@Test
+	public void Restapidevelop()
+	{
+		System.out.println("selenium");
+	}
 
 }
